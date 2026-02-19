@@ -4,6 +4,7 @@
     <groupId>com.moscait</groupId>
     <artifactId>qwatcher</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <description>A containerized Quarkus application for Raspberry Pi that monitors internet connectivity and auto-recovers by power-cycling Shelly Bluetooth devices.</description>
 
 
     <properties>
