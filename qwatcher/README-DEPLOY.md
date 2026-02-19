@@ -61,7 +61,7 @@ This project is configured to automatically build and publish a multi-arch conta
 
 ## Configuration
 
-The application configuration is embedded in the `src/main/deploy/qwatcher.container` file as environment variables.
+The applicWhat name would you like for the new subdirectory where the application will be moved?iables.
 You can edit this file **before** running the deploy script to customize:
 
 - **Target Device ID** (`QWATCHER_MONITOR_INTERNET_TARGET_DEVICE_ID`)
